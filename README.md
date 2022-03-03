@@ -7,3 +7,6 @@ hospital = request.form["hospital"]
 pid=session['userid']
 url = "https://www.isisolutions.in/temp/get.php"
 temp = requests.get(url)
+
+
+https://stackoverflow.com/questions/51056397/how-to-use-getdownloadurl-in-recent-versions
